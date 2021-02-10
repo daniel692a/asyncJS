@@ -13,6 +13,11 @@
     "async"
   ],
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "cllch" : "node src/callback/challenge.js",
+    "swapi" : "node src/callback/star-wars-challenge.js"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
