@@ -20,4 +20,5 @@ const fetchData = (uri, callback) =>{
 fetchData(API, (error1, data1) => {
     if(error1) return console.error(error1);
     console.log(data1.results[0].url);
+    console.log('Que la fuerza te acompañe perro');
 });
