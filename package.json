@@ -1,0 +1,18 @@
+{
+  "name": "asyncJS",
+  "version": "1.0.0",
+  "description": "Learning about event loop and async",
+  "main": "src/index.js",
+  "repository": "https://github.com/DanielArmR/asyncJS.git",
+  "author": "Daniel Armas",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "callback",
+    "promise",
+    "async"
+  ],
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  }
+}
