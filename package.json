@@ -16,7 +16,8 @@
     "callback": "node src/callback/index.js",
     "challeng:call" : "node src/callback/challenge.js",
     "swapi" : "node src/callback/star-wars-challenge.js",
-    "promise" : "node src/promises/index.js"
+    "promise" : "node src/promises/index.js",
+    "callpro" : "node src/promises/challenge.js"
   },
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
