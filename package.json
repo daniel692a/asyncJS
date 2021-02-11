@@ -18,7 +18,8 @@
     "swapi" : "node src/callback/star-wars-challenge.js",
     "promise" : "node src/promises/index.js",
     "callpro" : "node src/promises/challenge.js",
-    "async" : "node src/async/index.js"
+    "async" : "node src/async/index.js",
+    "async-challenge" : "node src/async/challenge.js"
   },
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
